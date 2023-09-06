@@ -1,0 +1,1 @@
+You need to add "Microsoft Windows Image Acquisiton Library v2.0" and "Microsoft Shell Controls and Automatization" from references on VBA Tools. Enjoy it!! ;)
